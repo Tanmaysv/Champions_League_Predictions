@@ -1,3 +1,4 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# Champions_League_Predictions
+Champions League Predictions and Comments
+
+The blog will post predictions and comments from the football fans community.
+Currently UCL round of 16 is on it's way and users can make their predictions and comments
+
